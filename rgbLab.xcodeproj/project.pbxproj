@@ -14,7 +14,7 @@
 		B3DFA91F2DC356C7004441D0 /* Exceptions for "rgbLab" folder in "rgbLab" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				App/Info.plist,
 			);
 			target = B3DFA90C2DC356C5004441D0 /* rgbLab */;
 		};
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2F54D8859X;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = rgbLab/Info.plist;
+				INFOPLIST_FILE = rgbLab/App/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -179,7 +179,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2F54D8859X;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = rgbLab/Info.plist;
+				INFOPLIST_FILE = rgbLab/App/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
