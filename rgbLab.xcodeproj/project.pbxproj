@@ -23,9 +23,6 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		B3DFA90F2DC356C5004441D0 /* rgbLab */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				B3DFA91F2DC356C7004441D0 /* Exceptions for "rgbLab" folder in "rgbLab" target */,
-			);
 			path = rgbLab;
 			sourceTree = "<group>";
 		};
